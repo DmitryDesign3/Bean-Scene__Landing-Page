@@ -433,7 +433,7 @@ a {
 .amazing {
     max-width: 1490px;
     margin: 0 auto;
-    background-image: url(/img/bg__amazing.png);
+    background-image: url(../img/bg__amazing.png);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -599,7 +599,7 @@ a {
     
     max-width: 1366px;
     margin: 0 auto;
-    background-image: url(/img/bg__subscribe.png);
+    background-image: url(../img/bg__subscribe.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -670,7 +670,7 @@ a {
     max-width: 1366px;
 
     margin: 0 auto;
-    background-image: url(/img/footer__bg.png);
+    background-image: url(../img/footer__bg.png);
     background-repeat: no-repeat;
     background-position: center;
 }
